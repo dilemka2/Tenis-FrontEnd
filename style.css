@@ -687,7 +687,8 @@ footer .navbar {
         align-items: center;
     }
     .photo-block p {
-        bottom: -150px;
-        right: 210px;
+        bottom: -144px;
+        text-align: left;
+        left: -306px;
     }
 }
